@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and growing gradually 
 - 🌱 I’m currently learning c,c++,sql
 - 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me mail me @- itsweirdoguy@gmail.com
+- 📫 How to reach me mail me @- khatrisumist02@gmail.com
 
 <!---
 sumist02khatri/sumist02khatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
